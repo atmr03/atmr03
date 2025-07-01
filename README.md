@@ -58,4 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=martsetepen&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-testingf
+<img src="https://raw.githubusercontent.com/atmr03/atmr03/output/snake.svg" alt="Snake animation" />
+
+###

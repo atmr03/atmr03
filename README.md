@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mart Setepen</h1>
-<h3 align="center">Full-Stack Web Developer | Indonesia</h3>
 <p align="center">
   <img src="img/github-header-image.png" alt="Profil Saya">
 </p>
@@ -51,8 +49,6 @@
 > Saya suka Tentang teknologi seputar perangkat lunak 😄
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martsetepen&show_icons=true&theme=tokyonight" alt="GitHub stats" />
